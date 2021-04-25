@@ -21,6 +21,7 @@
 		B98A697C2635CD4800E2C967 /* ScrumsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B98A697B2635CD4800E2C967 /* ScrumsView.swift */; };
 		B98A69892635D0E800E2C967 /* Contents.json in Resources */ = {isa = PBXBuildFile; fileRef = B98A69832635D0E800E2C967 /* Contents.json */; };
 		B98A6997263607C900E2C967 /* DetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B98A6996263607C900E2C967 /* DetailView.swift */; };
+		B98A69A22636221700E2C967 /* EditView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B98A69A12636221700E2C967 /* EditView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -61,6 +62,7 @@
 		B98A697B2635CD4800E2C967 /* ScrumsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrumsView.swift; sourceTree = "<group>"; };
 		B98A69832635D0E800E2C967 /* Contents.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; name = Contents.json; path = Assets.xcassets/Contents.json; sourceTree = "<group>"; };
 		B98A6996263607C900E2C967 /* DetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailView.swift; sourceTree = "<group>"; };
+		B98A69A12636221700E2C967 /* EditView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EditView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -166,6 +168,7 @@
 				B98A696E26350A9C00E2C967 /* CardView.swift */,
 				B98A697B2635CD4800E2C967 /* ScrumsView.swift */,
 				B98A6996263607C900E2C967 /* DetailView.swift */,
+				B98A69A12636221700E2C967 /* EditView.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -306,6 +309,7 @@
 				B95C9DDE261A86D1005488E8 /* MeetingView.swift in Sources */,
 				B98A697C2635CD4800E2C967 /* ScrumsView.swift in Sources */,
 				B98A697726350CAE00E2C967 /* Color+Codable.swift in Sources */,
+				B98A69A22636221700E2C967 /* EditView.swift in Sources */,
 				B95C9DDC261A86D1005488E8 /* ScrumdingerApp.swift in Sources */,
 				B98A696F26350A9C00E2C967 /* CardView.swift in Sources */,
 				B95C9DE8261A86D2005488E8 /* Scrumdinger.xcdatamodeld in Sources */,
